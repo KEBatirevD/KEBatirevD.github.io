@@ -1,0 +1,11 @@
+--2021-01-15 00:32:17--  https://static01.nyt.com/images/2012/10/14/books/review/1014BTB/1014BTB-jumbo.jpg?quality=75
+Resolving static01.nyt.com (static01.nyt.com)... 199.232.65.164
+Connecting to static01.nyt.com (static01.nyt.com)|199.232.65.164|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71113 (69K) [image/jpeg]
+Saving to: ‘1014BTB-jumbo.jpg?quality=75’
+
+1014BTB-jumbo.jpg?quality=75                                     0%[                                                                                                                                                   ]       0  --.-KB/s               1014BTB-jumbo.jpg?quality=75                                   100%[==================================================================================================================================================>]  69.45K  --.-KB/s    in 0.001s  
+
+2021-01-15 00:32:17 (108 MB/s) - ‘1014BTB-jumbo.jpg?quality=75’ saved [71113/71113]
+
